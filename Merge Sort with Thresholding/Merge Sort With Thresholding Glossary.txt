@@ -1,0 +1,2 @@
+Array - Data structure that holds up to a finite amount of items of the same type.
+Threshold - Usually machine dependent. The length of array that when surpassed results in merge sort to out perform insertion sort at all values greater than the threshold.
